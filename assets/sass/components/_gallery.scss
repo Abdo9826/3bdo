@@ -6,7 +6,7 @@
 
 /* Gallery */
 
-.gallery {
+.gallery1 {
   @include vendor('display', 'flex');
   @include vendor('flex-wrap', 'wrap');
   width: 45em;
