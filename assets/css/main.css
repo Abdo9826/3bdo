@@ -1894,32 +1894,32 @@ body.is-touch .poptrox-popup .closer {
   transition-delay: 1.15s;
 }
 
-.gallery.inactive article {
+.gallery1.inactive article {
   opacity: 0;
 }
 
-.gallery.inactive article.from-left {
+.gallery1.inactive article.from-left {
   -moz-transform: translateX(-14em);
   -webkit-transform: translateX(-14em);
   -ms-transform: translateX(-14em);
   transform: translateX(-14em);
 }
 
-.gallery.inactive article.from-right {
+.gallery1.inactive article.from-right {
   -moz-transform: translateX(14em);
   -webkit-transform: translateX(14em);
   -ms-transform: translateX(14em);
   transform: translateX(14em);
 }
 
-.gallery.inactive article.from-top {
+.gallery1.inactive article.from-top {
   -moz-transform: translateY(-7em);
   -webkit-transform: translateY(-7em);
   -ms-transform: translateY(-7em);
   transform: translateY(-7em);
 }
 
-.gallery.inactive article.from-bottom {
+.gallery1.inactive article.from-bottom {
   -moz-transform: translateY(7em);
   -webkit-transform: translateY(7em);
   -ms-transform: translateY(7em);
