@@ -2347,13 +2347,17 @@ body.is-touch .main {
 /* Intro */
 
 #intro {
-  background: url('../../images/thumbs/abb.PNG');
+  background: url('../../images/thumbs/abbb.jpg');
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: center, center;
   background-repeat: no-repeat, no-repeat;
   background-size: cover;
   opacity: 0.9;
+}
+
+.bot {
+  margin-top: 350px;
 }
 
 /* One */
