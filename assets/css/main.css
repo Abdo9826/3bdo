@@ -979,7 +979,8 @@ textarea {
   width: 100%;
   padding: 0.65em 0.75em;
   background: none;
-  border: solid 2px #e5e6e7;
+  /* border: solid 2px #e5e6e7; */
+  border: solid 2px #d4d4d4;
   color: inherit;
   border-radius: 0.5em;
   outline: none;
@@ -1014,21 +1015,21 @@ textarea {
   border: 0;
 }
 
-::-webkit-input-placeholder {
-  opacity: 0.375;
+/* ::-webkit-input-placeholder {
+  opacity: 0.8;
 }
 
 :-moz-placeholder {
-  opacity: 0.375;
+  opacity: 0.8;
 }
 
 ::-moz-placeholder {
-  opacity: 0.375;
+  opacity: 0.8;
 }
 
 :-ms-input-placeholder {
-  opacity: 0.375;
-}
+  opacity: 0.8;
+} */
 
 /* Icon */
 
@@ -1549,6 +1550,11 @@ body.is-touch .poptrox-popup .closer {
   border: solid 1px #eaeaea;
   padding-bottom: 10px;
 
+}
+
+.border2 {
+  border: solid 3px #d4d4d4;
+  border-radius: 10px;
 }
 
 .gallery1 article {
