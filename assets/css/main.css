@@ -699,6 +699,11 @@ i {
   font-style: italic;
 }
 
+.down {
+  position: relative;
+  margin-top: 30%;
+}
+
 a {
   -moz-transition: color 0.2s ease-in-out;
   -webkit-transition: color 0.2s ease-in-out;
@@ -783,7 +788,7 @@ button {
   background-color: #98c593;
   border: 0;
   border-radius: 3.5em;
-  color: #ffffff;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
   height: 3.5em;
