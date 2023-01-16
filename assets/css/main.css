@@ -1041,8 +1041,6 @@ textarea {
 .icon {
   text-decoration: none;
   position: relative;
-
-
 }
 
 .icon:before {
@@ -1554,7 +1552,6 @@ body.is-touch .poptrox-popup .closer {
 .border {
   border: solid 1px #eaeaea;
   padding-bottom: 10px;
-
 }
 
 .border2 {
@@ -2297,6 +2294,7 @@ body.is-touch .main {
   background: #39454b;
   color: rgba(185, 186, 187, 0.5);
   overflow: hidden;
+  margin-top: 10px;
 }
 
 #footer > * {
@@ -2358,7 +2356,7 @@ body.is-touch .main {
 /* Intro */
 
 #intro {
-  background: url('../../images/thumbs/abbb.jpg');
+  background: url('../../images/thumbs/calm.jpg');
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: center, center;
@@ -2373,6 +2371,18 @@ body.is-touch .main {
 
 /* One */
 
+/* .up3{
+  margin-bottom: -50px;
+} */
+
+.up2 {
+  margin-bottom: 50px;
+}
+
+.up {
+  margin-bottom: -70px;
+}
+
 #one {
   background: url('../../images/thumbs/moon.jpg');
   background-size: 256px 256px, cover;
@@ -2386,13 +2396,13 @@ body.is-touch .main {
 /* Two */
 
 #two {
-	background: url('../../images/thumbs/sun1.jpg');
-	background-size: 256px 256px, cover;
-	background-attachment: fixed, fixed;
-	background-position: center;
-	background-repeat: no-repeat, no-repeat;
-	background-size: cover;
-	opacity: 0.8;
+  background: url('../../images/thumbs/sun1.jpg');
+  background-size: 256px 256px, cover;
+  background-attachment: fixed, fixed;
+  background-position: center;
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover;
+  opacity: 0.8;
 }
 
 /* Contact */
